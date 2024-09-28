@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
             localStorage.setItem('loggedInUser', JSON.stringify(userFound)); // Guardar el usuario autenticado
             switch (userFound.role) {
                 case 'admin':
-                    window.location.href = 'HTML/bienvenidaEmp.html';
+                    window.location.href = 'html/bienvenidaEmp.html';
                     break;
                 case 'user':
                     window.location.href = 'html/principalc.html';
