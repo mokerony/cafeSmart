@@ -1,7 +1,7 @@
 document.querySelector('#boton').addEventListener('click', traerDatos);
 function traerDatos(){
     const xhttp = new XMLHttpRequest();
-    xhttp.open('GET', '../JSON/pedidos.json',true)
+    xhttp.open('GET', '../json/pedidos.json',true)
     xhttp.send();
     xhttp.onreadystatechange = function(){
         if(this.readyState==4 && this.status == 200){
