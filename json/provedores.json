@@ -11,50 +11,27 @@
         "ciudad": "Medellín",
         "telefono": "3109876543"
     },
+
     {
-        "nombre": "Nutresa",
-        "direccion": "Carrera 9 #34-10",
-        "ciudad": "Cali",
-        "telefono": "3204567890"
-    },
-    {
-        "nombre": "Alpina",
-        "direccion": "Calle 22 #15-25",
-        "ciudad": "Barranquilla",
-        "telefono": "3301234567"
-    },
-    {
-        "nombre": "Frescolita",
-        "direccion": "Calle 4 #50-80",
-        "ciudad": "Cartagena",
-        "telefono": "3409876543"
-    },
-    {
-        "nombre": "La 14",
-        "direccion": "Avenida 6 #70-30",
-        "ciudad": "Bucaramanga",
-        "telefono": "3504567890"
-    },
-    {
-        "nombre": "Café Devoción",
+        "nombre": "brisa",
         "direccion": "Calle 7 #15-25",
         "ciudad": "Pereira",
         "telefono": "3601234567"
     },
     {
-        "nombre": "Galletas Noel",
+        "nombre": "dulces",
         "direccion": "Carrera 8 #40-55",
         "ciudad": "Manizales",
         "telefono": "3709876543"
     },
     {
-        "nombre": "Aguas de La Sierra",
+        "nombre": "empanedados",
         "direccion": "Calle 9 #90-10",
         "ciudad": "Santa Marta",
         "telefono": "3804567890"
     },
     {
-        "nombre": "Café San Alberto",
+        "nombre": "margarita",
         "direccion": "Avenida 10 #25-60",
         "ciudad": "Cúcuta",
         "telefono": "3901234567"
