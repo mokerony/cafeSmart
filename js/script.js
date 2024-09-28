@@ -3,7 +3,7 @@ const productos = [
     {
         id: "agua",
         titulo: "agua",
-        imagen: "img/bebidas/agua.png",
+        imagen: "..img/bebidas/agua.png",
         categoria: {
             nombre: "bebidas",
             id: "bebidas"
@@ -13,7 +13,7 @@ const productos = [
     {
         id: "agua manzana",
         titulo: "agua manzana",
-        imagen: "img/bebidas/agua-manzana.png",
+        imagen: "..img/bebidas/agua-manzana.png",
         categoria: {
             nombre: "bebidas",
             id: "bebidas"
@@ -23,7 +23,7 @@ const productos = [
     {
         id: "bigcola",
         titulo: "bigcola",
-        imagen: "img/bebidas/bigcola.jpeg",
+        imagen: "..img/bebidas/bigcola.jpeg",
         categoria: {
             nombre: "bebidas",
             id: "bebidas"
@@ -33,7 +33,7 @@ const productos = [
     {
         id: "cocacola",
         titulo: "cocacola",
-        imagen: "img/bebidas/cocacola.png",
+        imagen: "..img/bebidas/cocacola.png",
         categoria: {
             nombre: "bebidas",
             id: "bebidas"
@@ -43,7 +43,7 @@ const productos = [
     {
     id: "jugo de corozo",
     titulo: "jugo de corozo",
-    imagen: "img/bebidas/jugo-corozo.jpg",
+    imagen: "..img/bebidas/jugo-corozo.jpg",
     categoria: {
         nombre: "bebidas",
         id: "bebidas"
@@ -52,7 +52,7 @@ const productos = [
 }, {
     id: "barrilete",
     titulo: "barrilete",
-    imagen: "img/dulces/barrilete.png",
+    imagen: "..img/dulces/barrilete.png",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -62,7 +62,7 @@ const productos = [
 {
     id: "bombon",
     titulo: "bombon",
-    imagen: "img/dulces/bonbon.jpeg",
+    imagen: "..img/dulces/bonbon.jpeg",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -72,7 +72,7 @@ const productos = [
 {
     id: "candi ranch",
     titulo: "candi ranch",
-    imagen: "img/dulces/candi-ranch.jpeg",
+    imagen: "..img/dulces/candi-ranch.jpeg",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -82,7 +82,7 @@ const productos = [
 {
     id: "chocomelo",
     titulo: "chocomelo",
-    imagen: "img/dulces/chocomelo.jpeg",
+    imagen: "..img/dulces/chocomelo.jpeg",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -92,7 +92,7 @@ const productos = [
 {
     id: "jet",
     titulo: "jet",
-    imagen: "img/dulces/jet.jpeg",
+    imagen: "..img/dulces/jet.jpeg",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -102,7 +102,7 @@ const productos = [
 {
     id: "jumbo",
     titulo: "jumbo",
-    imagen: "img/dulces/jumbo.jpeg",
+    imagen: "..img/dulces/jumbo.jpeg",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -112,7 +112,7 @@ const productos = [
 {
     id: "manimoto",
     titulo: "manimoto",
-    imagen: "img/dulces/manimoto.png",
+    imagen: "..img/dulces/manimoto.png",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -121,7 +121,7 @@ const productos = [
 },{
     id: "menta",
     titulo: "menta",
-    imagen: "img/dulces/menta.jpg",
+    imagen: "..img/dulces/menta.jpg",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -131,7 +131,7 @@ const productos = [
 {
     id: "nucita",
     titulo: "nucita",
-    imagen: "img/dulces/nucita.png",
+    imagen: "..img/dulces/nucita.png",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -141,7 +141,7 @@ const productos = [
 {
     id: "quipitos",
     titulo: "quipitos",
-    imagen: "img/dulces/quipitos.png",
+    imagen: "..img/dulces/quipitos.png",
     categoria: {
         nombre: "dulces",
         id: "dulces"
@@ -151,7 +151,7 @@ const productos = [
 {
     id: "empanada",
     titulo: "empanada",
-    imagen: "img/horneados/empanadas-horneadas.png",
+    imagen: "..img/horneados/empanadas-horneadas.png",
     categoria: {
         nombre: "horneados",
         id: "horneados"
@@ -161,7 +161,7 @@ const productos = [
 {
     id: "dedito",
     titulo: "dedito",
-    imagen: "img/horneados/deditos.png",
+    imagen: "..img/horneados/deditos.png",
     categoria: {
         nombre: "horneados",
         id: "horneados"
@@ -171,7 +171,7 @@ const productos = [
 {
     id: "pastelitos",
     titulo: "pastelitos",
-    imagen: "img/horneados/pastelitos.jpg",
+    imagen: "..img/horneados/pastelitos.jpg",
     categoria: {
         nombre: "horneados",
         id: "horneados"
@@ -181,7 +181,7 @@ const productos = [
 {
     id: "sandwhich",
     titulo: "sandwich",
-    imagen: "img/horneados/sandwich.jpg",
+    imagen: "..img/horneados/sandwich.jpg",
     categoria: {
         nombre: "horneados",
         id: "horneados"
@@ -191,7 +191,7 @@ const productos = [
 {
     id: "chestres",
     titulo: "chestres",
-    imagen: "img/mecatos/chestres.png",
+    imagen: "..img/mecatos/chestres.png",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -201,7 +201,7 @@ const productos = [
 {
     id: "choclitos",
     titulo: "choclitos",
-    imagen: "img/mecatos/choclitos.jpeg",
+    imagen: "..img/mecatos/choclitos.jpeg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -211,7 +211,7 @@ const productos = [
 {
     id: "detodito mix",
     titulo: "detodito mix",
-    imagen: "img/mecatos/detodito-mix.jpeg",
+    imagen: "..img/mecatos/detodito-mix.jpeg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -221,7 +221,7 @@ const productos = [
 {
     id: "detodito natural",
     titulo: "detodito natural",
-    imagen: "img/mecatos/detodito-natural.jpg",
+    imagen: "..img/mecatos/detodito-natural.jpg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -231,7 +231,7 @@ const productos = [
 {
     id: "detodito picante",
     titulo: "detodito picante",
-    imagen: "img/mecatos/detodito-picante.jpeg",
+    imagen: "..img/mecatos/detodito-picante.jpeg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -241,7 +241,7 @@ const productos = [
 {
     id: "doritos",
     titulo: "doritos",
-    imagen: "img/mecatos/doritos.jpeg",
+    imagen: "..img/mecatos/doritos.jpeg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -251,7 +251,7 @@ const productos = [
 {
     id: "papas bbq",
     titulo: "papas bqq",
-    imagen: "img/mecatos/papas-bbq.jpeg",
+    imagen: "..img/mecatos/papas-bbq.jpeg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -261,7 +261,7 @@ const productos = [
 {
     id: "papas limon",
     titulo: "papas limon",
-    imagen: "img/mecatos/papas-limon.jpg",
+    imagen: "..img/mecatos/papas-limon.jpg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -271,7 +271,7 @@ const productos = [
 {
     id: "papas natural",
     titulo: "papas natural",
-    imagen: "img/mecatos/papas-natural.jpg",
+    imagen: "...img/mecatos/papas-natural.jpg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
@@ -281,7 +281,7 @@ const productos = [
 {
     id: "papas pollo",
     titulo: "papas pollo",
-    imagen: "img/mecatos/papas-pollo.jpg",
+    imagen: "..img/mecatos/papas-pollo.jpg",
     categoria: {
         nombre: "mecatos",
         id: "mecatos"
