@@ -1,0 +1,17 @@
+[
+    {
+        "usuario": "Lucas",
+        "password": "123",
+        "role": "user"
+    },
+    {
+        "usuario": "Ospitia",
+        "password": "holamundo",
+        "role": "user"
+    },
+    {
+        "usuario": "admin",
+        "password": "12345",
+        "role": "admin"
+    }
+]

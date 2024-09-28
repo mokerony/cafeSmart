@@ -1,0 +1,75 @@
+[
+    {
+        "code": "123",
+        "nombre": "Jugo",
+        "precio": "1500",
+        "cantidad": "40"
+    },
+    {
+        "code": "456",
+        "nombre": "Galleta Festival",
+        "precio": "2500",
+        "cantidad": "20"
+    },
+    {
+        "code": "789",
+        "nombre": "Chocolatina",
+        "precio": "3000",
+        "cantidad": "16"
+    },
+    {
+        "code": "101",
+        "nombre": "Empanada",
+        "precio": "2000",
+        "cantidad": "36"
+    },
+    {
+        "code": "234",
+        "nombre": "Doritos",
+        "precio": "3000",
+        "cantidad": "22"
+    },
+    {
+        "code": "345",
+        "nombre": "Gaseosa",
+        "precio": "1500",
+        "cantidad": "31"
+    },
+    {
+        "code": "567",
+        "nombre": "Agua Mineral",
+        "precio": "1000",
+        "cantidad": "50"
+    },
+    {
+        "code": "678",
+        "nombre": "Frutos Secos",
+        "precio": "4500",
+        "cantidad": "10"
+    },
+    {
+        "code": "789",
+        "nombre": "Barra de Cereales",
+        "precio": "2000",
+        "cantidad": "25"
+    },
+    {
+        "code": "890",
+        "nombre": "Snack de Maíz",
+        "precio": "1200",
+        "cantidad": "30"
+    },
+    {
+        "code": "901",
+        "nombre": "Pizza Congelada",
+        "precio": "8000",
+        "cantidad": "12"
+    },
+    {
+        "code": "012",
+        "nombre": "Helado",
+        "precio": "3500",
+        "cantidad": "15"
+    }
+    
+]

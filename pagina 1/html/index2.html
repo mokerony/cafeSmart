@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cafesmart</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <div class="warpper">
+        <aside>
+            <header>
+                <h1 class="logo">cafeSmart</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i>Todos los
+                            productos</button>
+                    </li>
+                    <li>
+                        <button id="horneados" class="boton-menu boton-categoria "><i class="bi bi-hand-index-thumb"></i>Horneados</button>
+                    </li>
+                    <li>
+                        <button id="bebidas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Bebidas</button>
+                    </li>
+                    <li>
+                        <button id="mecatos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Mecatos</button>
+                    </li>
+                    <li>
+                        <button id="dulces" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Dulces</button>
+                    </li>
+                    <li>
+                        <li>
+                            <li>
+                                <a class="boton-menu boton-volver" href="index1.html">
+                                    <i class="bi bi-arrow-return-left"></i>volver
+                                </a>
+                        </li>
+                        <a class="boton-menu boton-carrito " href="carrito.html">
+                            <i class="bi bi-cart-fill"></i>Carrito <span class="numerito">0</span>
+                        </a>
+                    </li>
+
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2024 cafeSmart</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos"class="contenedor-productos"> </div>
+        </main>
+
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
