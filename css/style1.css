@@ -1,0 +1,106 @@
+body {
+    background-color: white; 
+    color: rgb(1, 1, 10);                
+    font-family: Arial;             
+    margin: 0; 
+}
+
+header {
+    text-align: center; 
+    border: 2px white; 
+    background-color:#760507;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.imagen {
+    text-align: center; 
+}
+
+.parrafo {
+    font-size: 22px; 
+}
+
+
+
+.caja {
+    display: flex; 
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.pie {
+    text-align: center;
+    border: 2px solid #760507; 
+    background-color: #760507;
+    color: white;
+    padding: 20px; 
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+
+.parrafo { 
+    padding-right: 4%;
+}
+
+/* Estilo del formulario */
+.frm {      
+    border: 2px white;
+    padding-left: 3%;   
+    padding-right: 3%;
+    padding-bottom: 10%;
+    padding-top: 20px; 
+    border-radius: 25px;
+    background-color: #760507;
+    max-width: 500px;  
+    margin: 0 auto; 
+    margin-top: 50px;    
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);  
+    color: white;
+}
+
+
+label {
+    font-size: 18px;  
+    display: block;   
+    margin-bottom: 10px; 
+}
+
+input[type="text"],
+input[type="number"],
+select {
+    width: 100%; 
+    padding: 10px;
+    margin-bottom: 15px; 
+    border: 1px solid #760507; 
+    border-radius: 5px; 
+    box-sizing: border-box;
+}
+
+
+input[type="button"] {
+    padding: 10px 20px; 
+    background-color: white; 
+    color: rgb(8, 8, 8); 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 16px;
+    width: 100%; 
+}
+.boton-menu{
+    background-color: transparent;
+    border: 0;
+    color: var(--clbackground);
+    font-size: 1rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-weight: 600;
+    padding: 1rem;
+    font-size: .85rem;
+     }
