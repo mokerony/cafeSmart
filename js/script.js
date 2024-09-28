@@ -343,20 +343,4 @@ function actualizarBotonesAgregar() {
     });
 }
 
-const productosenCarrito = [];
 
-function agregarAlcarrito(e) {
-    const idBoton = e.currentTarget.id;
-    const productoAgregado = productos.find(producto => producto.id === idBoton);
-    if (productosenCarrito.some(producto => producto.id === idBoton)) {
-        const index = productosenCarrito.findIndex(producto => producto.id === idBoton);
-        productosenCarrito[index].cantidad++;
-    } else {
-        productoAgregado.cantidad = 1;
-        productosenCarrito.push(productoAgregado);
-    }
-}
-
-function actualizarNumerito() {
-    let numerito = productosenCarrito.reduce((acc, producto) => acc + producto.cantidad, 0);
-}
